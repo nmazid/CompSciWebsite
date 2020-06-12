@@ -1,1 +1,7 @@
+name: Nabhan Mazid
+picture: 
+# social links
+twitter_username: N/A # DO NOT include the @ character, or else the build will fail!
+github_username:  nmazid # DO NOT include the @ character, or else the build will fail!
 
+show_excerpts: true # set to false to remove excerpts on the homepage
