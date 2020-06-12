@@ -7,6 +7,6 @@ My Name: Nabhan Mazid
 #Socials
 
 #github_username:  
-#nmazid # DO NOT include the @ character, or else the build will fail!
+#nmazid
 
-#brag_sheet: I am a part of the MSA Board, I did community service for my mosque,  # set to false to remove excerpts on the homepage
+#brag_sheet: I am a part of the MSA Board, I did community service for my mosque, I got better grades this semester.
