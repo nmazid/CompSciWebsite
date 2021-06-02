@@ -9,4 +9,4 @@ Socials
 Github Username 
 nmazid
 
-Brag Sheet: I am a part of the MSA Board, I did community service for my mosque, I got better grades this semester, I almost recieved an AI but was proven innocent 😃, I am good at Valorant(videogame).
+Brag Sheet: I am treasurer on MSA (Muslim Student Association), I did community service for my mosque, I got Diamond 2 in Valorant (game), I play soccer and bike in my free time.
